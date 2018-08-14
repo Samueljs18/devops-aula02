@@ -1,2 +1,2 @@
 # devops-aula02
-Ryan reynolds, wagner moura.
+Ryan reynolds, wagner moura, Leandro Hassum.
